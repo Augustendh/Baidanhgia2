@@ -1,0 +1,185 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+    "name": "typicode"
+    }
+  ],
+ "article": [
+  {
+    "title": "Ukraine nói có 'thắng lợi đầu tiên' trong phản công ở Bakhmut",
+    "description": "Tư lệnh Syrskyi mô tả những diễn biến quanh Bakhmut gần đây là \"thành công đầu tiên\" của lực lượng Ukraine trong giao tranh với Nga ở thành phố.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/2023-05-12t091119z-348409246-r-1314-1285-1684136455.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2CVnvceQPX4gjJybLv5NsQ",
+    "publish_date": "2023-05-15 08:35:06",
+    "link": "https://vnexpress.net/ukraine-noi-co-thang-loi-dau-tien-trong-phan-cong-o-bakhmut-4605468.html"
+  },
+  {
+    "title": "Phe đối lập Thái Lan nhất trí liên minh để nắm quyền",
+    "description": "6 đảng đối lập ở Thái Lan, nổi bật nhất là Move Forward và Pheu Thai, đồng ý liên minh để đảm bảo khả năng thành lập chính phủ mới.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/page-1684135613-7449-1684135691.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z5Y2H-JFkvavbUZHEF1X6w",
+    "publish_date": "2023-05-15 07:55:14",
+    "link": "https://vnexpress.net/phe-doi-lap-thai-lan-nhat-tri-lien-minh-de-nam-quyen-4605439.html"
+  },
+  {
+    "title": "Anh sẽ chuyển hàng trăm UAV tấn công tầm xa cho Ukraine",
+    "description": "Chính phủ Anh thông báo sẽ chuyển hàng trăm máy bay không người lái tấn công tầm xa với phạm vi hoạt động hơn 200 km cho Ukraine.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/33eh2f2-highres-1684135258-9564-1684135449.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pMT7HaFNq8_RTbcEbH8iQg",
+    "publish_date": "2023-05-15 07:49:44",
+    "link": "https://vnexpress.net/anh-se-chuyen-hang-tram-uav-tan-cong-tam-xa-cho-ukraine-4605442.html"
+  },
+  {
+    "title": "Trung Quốc tuyên án tù chung thân với công dân Mỹ",
+    "description": "Trung Quốc tuyên án tù chung thân với công dân Mỹ 78 tuổi vì cáo buộc làm gián điệp, động thái có thể khiến quan hệ với Washington thêm căng thẳng.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/co-my-1684133223-2146-1684133374.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rpc0xfx7LVwix4KNFXivMA",
+    "publish_date": "2023-05-15 07:18:17",
+    "link": "https://vnexpress.net/trung-quoc-tuyen-an-tu-chung-than-voi-cong-dan-my-4605352.html"
+  },
+  {
+    "title": "Trận đánh khiến đại tá Nga thiệt mạng ở Bakhmut",
+    "description": "Đại tá Makarov bị thương và tử trận khi chỉ huy lực lượng Nga chống lại đợt tấn công thứ ba của quân đội Ukraine tại ngoại ô Bakhmut.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/33em3t6-highres-1684125057-1970-1684125296.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n2ncB7894F4dhY-X9bjJuw",
+    "publish_date": "2023-05-15 07:10:13",
+    "link": "https://vnexpress.net/tran-danh-khien-dai-ta-nga-thiet-mang-o-bakhmut-4605370.html"
+  },
+  {
+    "title": "Tương lai chính trường Thái Lan sau cuộc bầu cử chấn động",
+    "description": "Bầu cử Thái Lan gây chấn động với sự trỗi dậy của phe cải cách, song tương lai chính trường còn phụ thuộc vào khả năng liên minh lập chính phủ của họ.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/tha-i-lan-1684124069-4521-1684124216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dOcYvZqDIUG8VQYNN2ylRg",
+    "publish_date": "2023-05-15 05:09:05",
+    "link": "https://vnexpress.net/tuong-lai-chinh-truong-thai-lan-sau-cuoc-bau-cu-chan-dong-4605279.html"
+  },
+  {
+    "title": "Tổng thống Ukraine để quên điện thoại khi thăm Đức",
+    "description": "Tổng thống Ukraine Zelensky để quên điện thoại trên chiếc ôtô chở ông ở Berlin, Đức, khiến nhân viên an ninh vội vã chạy theo trả lại.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/aaa-1684125052-5333-1684125783.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ETBKGOVcmJAUFUq2ULPzLg",
+    "publish_date": "2023-05-15 04:52:08",
+    "link": "https://vnexpress.net/tong-thong-ukraine-de-quen-dien-thoai-khi-tham-duc-4605365.html"
+  },
+  {
+    "title": "Nam Phi xoa dịu căng thẳng với Mỹ sau tranh cãi về vũ khí",
+    "description": "Bộ trưởng Tài chính Nam Phi nói nước này đã giải quyết xong với Mỹ về cáo buộc \"chuyển vũ khí cho Nga\", tin rằng Washington sẽ không trừng phạt Pretoria.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/2023-02-22t124903z-1802112350-7796-9632-1684122927.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zmCj9EHpdKF7defii_VHyQ",
+    "publish_date": "2023-05-15 04:19:29",
+    "link": "https://vnexpress.net/nam-phi-xoa-diu-cang-thang-voi-my-sau-tranh-cai-ve-vu-khi-4605335.html"
+  },
+  {
+    "title": "Ông Zelensky: Ukraine có thể đánh bại Nga cuối năm nay",
+    "description": "Tổng thống Zelensky cho rằng Ukraine có thể đánh bại Nga vào cuối năm nay với các gói hỗ trợ quân sự của phương Tây.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/2023-05-14t112602z-1551502102-9381-1888-1684122602.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iO1ZZfJqXQa0pGZu_FJzfQ",
+    "publish_date": "2023-05-15 03:50:02",
+    "link": "https://vnexpress.net/ong-zelensky-ukraine-co-the-danh-bai-nga-cuoi-nam-nay-4605286.html"
+  },
+  {
+    "title": "Cặp vợ chồng khiến nhiều người Mỹ 'phải lòng' mắm tôm",
+    "description": "Nhung và Jerald mở nhà hàng bán bún đậu ở New York, thuyết phục thực khách thử món mắm tôm, khiến nhiều người \"phải lòng\" và gọi tới hai bát.",
+    "thumb": "https://i1-vnexpress.vnecdn.net/2023/05/15/snapinsta-app-242374529-229989-8262-2747-1684121045.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cgcRKVtP5kgcm-jzXqeQlA",
+    "publish_date": "2023-05-15 03:21:32",
+    "link": "https://vnexpress.net/cap-vo-chong-khien-nhieu-nguoi-my-phai-long-mam-tom-4603991.html"
+  }
+ ],
+ "playlist": [
+  {
+    "id": 1,
+    "playlist_id": "PLv6GftO355AsUpSRNDp9C4EGdiCvV30lq",
+    "title": "Demo project khóa học Offline",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/GDjRi_nDULE\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/GDjRi_nDULE\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/GDjRi_nDULE\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/GDjRi_nDULE\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/GDjRi_nDULE\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 2,
+    "playlist_id": "PLv6GftO355Ask5oKKa_YF88sP6pUHCEZJ",
+    "title": "Lập trình NuxtJs + WP Rest API + AWS tại ZendVN",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/jvBgV8Yw2Ok\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/jvBgV8Yw2Ok\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/jvBgV8Yw2Ok\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/jvBgV8Yw2Ok\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/jvBgV8Yw2Ok\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 3,
+    "playlist_id": "PLv6GftO355AvWAQv4or-RE2RAFFXaI3Jz",
+    "title": "Lập trình NextJS",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KmsuOjclZWM\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KmsuOjclZWM\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KmsuOjclZWM\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KmsuOjclZWM\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KmsuOjclZWM\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 4,
+    "playlist_id": "PLv6GftO355Atnyfxhr3O2RJ_xJEeDcRJg",
+    "title": "Lập trình viên - Tư vấn và chia sẻ",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/tlei_DA6KLA\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/tlei_DA6KLA\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/tlei_DA6KLA\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/tlei_DA6KLA\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/tlei_DA6KLA\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 5,
+    "playlist_id": "PLv6GftO355AsnYhqaxfYF6lCJuc7iYjj0",
+    "title": "Lập trình Chrome Extension",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/U-1ML72nsFQ\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/U-1ML72nsFQ\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/U-1ML72nsFQ\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/U-1ML72nsFQ\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/U-1ML72nsFQ\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 6,
+    "playlist_id": "PLv6GftO355AtUxyTf_gwuOoaDcPOMvzDE",
+    "title": "Lập trình C qua bài tập thực tế",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/JWXnJJ-VXUk\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/JWXnJJ-VXUk\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/JWXnJJ-VXUk\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/JWXnJJ-VXUk\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/JWXnJJ-VXUk\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 7,
+    "playlist_id": "PLv6GftO355At03sXR4rExdHTZqd8MSP6n",
+    "title": "Review Code - Code sao cho đẹp",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/rnKye2bP9Ps\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/rnKye2bP9Ps\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/rnKye2bP9Ps\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/rnKye2bP9Ps\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/rnKye2bP9Ps\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 8,
+    "playlist_id": "PLv6GftO355AtoSx2yY107nZihfAbKi4SM",
+    "title": "Lập trình Frontend Master",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/m5b0Ebx5CTI\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/m5b0Ebx5CTI\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/m5b0Ebx5CTI\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/m5b0Ebx5CTI\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/m5b0Ebx5CTI\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 9,
+    "playlist_id": "PLv6GftO355Au7i_xN_0OsVZUO54rp9tR6",
+    "title": "Lập trình Laravel",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KexBQac7aac\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KexBQac7aac\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KexBQac7aac\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KexBQac7aac\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/KexBQac7aac\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  },
+  {
+    "id": 10,
+    "playlist_id": "PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf",
+    "title": "Lập trình VueJS",
+    "created_at": "2021-04-05T09:47:56.000000Z",
+    "updated_at": "2021-04-05T09:47:56.000000Z",
+    "thumbnail": "{\"default\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/q1CNKjPPfdc\\/default.jpg\",\"width\":120,\"height\":90},\"medium\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/q1CNKjPPfdc\\/mqdefault.jpg\",\"width\":320,\"height\":180},\"high\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/q1CNKjPPfdc\\/hqdefault.jpg\",\"width\":480,\"height\":360},\"standard\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/q1CNKjPPfdc\\/sddefault.jpg\",\"width\":640,\"height\":480},\"maxres\":{\"url\":\"https:\\/\\/i.ytimg.com\\/vi\\/q1CNKjPPfdc\\/maxresdefault.jpg\",\"width\":1280,\"height\":720}}",
+    "type": "course"
+  }
+ ]
+}

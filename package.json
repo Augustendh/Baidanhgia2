@@ -1,0 +1,32 @@
+{
+  "name": "danhgia2",
+  "version": "1.0.0",
+  "description": "bài test danhgia 2",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json && live-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Augustendh/Baidanhgia2.git"
+  },
+  "author": "HUY nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Augustendh/Baidanhgia2/issues"
+  },
+  "homepage": "https://github.com/Augustendh/Baidanhgia2#readme",
+  "dependencies": {
+    "express-generator": "^4.16.1",
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
